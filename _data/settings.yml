@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: 月阴晦明|天铭s'blog
 logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: 星藏点雪 月阴晦明
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Tianming Hou
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: Hello, I’m <strong>Tianming Hou</strong>
+  bio: 搭建个人博客的主要目的是对日常学习中的重要知识进行 <strong>记录</strong>, 从而能够随时<strong>回顾</strong>, 以此不断<strong>进步</strong>。
 
 
 #-------------------------------
