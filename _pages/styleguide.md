@@ -5,7 +5,7 @@ permalink: /styleguide/
 image: 08.jpg
 ---
 
-A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman church-key iceland.
+这里是原模版对 markdown 格式的一些说明，由于我并不打算对该页面进行修改，所以以下内容均保留原样。
 
 ***
 
@@ -77,11 +77,6 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
   });
 {% endhighlight %}
 
-***
-
-### Videos
-
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
 
 ***
 
