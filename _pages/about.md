@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: 1136477.png
+image: 1059368.png
 ---
 
 Hello, 这里是 TMing-h 的个人博客。
