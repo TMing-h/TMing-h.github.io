@@ -1,17 +1,17 @@
 #-------------------------------
 # General Site Settings
-title: 月阴晦明|天铭s'blog
+title: 月隐晦明|天铭s'blog
 logo: logo.svg # You can add own logo.
-description: 星藏点雪 月阴晦明
+description: 星藏点雪 月隐晦明
 
 
 #-------------------------------
 # Author Settings
 author:
   name: Tianming Hou
-  image: 01.jpg
+  image: 1136477.png
   say-hello: Hello, I’m <strong>Tianming Hou</strong>
-  bio: 搭建个人博客的主要目的是对日常学习中的重要知识进行 <strong>记录</strong>, 从而能够随时<strong>回顾</strong>, 以此不断<strong>进步</strong>。
+  bio: 搭建个人博客的主要目的是对日常学习中的重要知识进行<strong>记录</strong>，从而能够随时<strong>回顾</strong>，以此不断<strong>进步</strong>。
 
 
 #-------------------------------
