@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Contact
-permalink: /styleguide/
+permalink: /contact/
 image: 04.jpg
 ---
 
 QQ：919969128
 
-email：houtm2000@outlook.com
+email：houtm@foxmail.com
 
 ***
 
